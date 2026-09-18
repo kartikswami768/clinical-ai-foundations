@@ -6,7 +6,7 @@
 ## Status Key
 
 - ☐ Not demonstrated
-- ◐ Partially demonstrated / needs prompting
+- ==☑ Partially demonstrated / needs prompting==
 - ☑ Demonstrated independently
 - ↻ Reassess later if the skill is not used for a prolonged period
 
