@@ -5,3 +5,9 @@ views:
       - file.name
       - file.basename
       - file.path
+    cardSize: 800
+  - type: cards
+    name: Cards
+  - type: list
+    name: List
+    indentProperties: true
