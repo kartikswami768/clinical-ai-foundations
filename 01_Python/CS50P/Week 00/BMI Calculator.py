@@ -1,9 +1,9 @@
 def main():
-    height = input("Your Height (m): ")
-    weight = input("Your Weight (in Kg): ")
+    height = float(input("Your Height (m): "))
+    weight = float(input("Your Weight (in Kg): "))
 
-    BMI = height/(weight^2)
-
+    BMI = weight/(height ** 2)
+    BMI = round(BMI, 1)
     print("Your BMI is", BMI)
 
 main()

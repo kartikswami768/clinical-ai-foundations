@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "vscode-editor"
+  "code-styler",
+  "vscode-editor",
+  "code-runner"
 ]
